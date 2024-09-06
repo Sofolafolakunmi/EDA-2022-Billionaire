@@ -6,13 +6,14 @@ This project focuses on analyzing a dataset of billionaires from around the worl
 insights into the wealth distribution among the super-rich. The dataset includes information such as net worth, country of
 origin, industry, age, and how they started.
 ### Project Obejectives 
-The purpose of this project was to: 
-Analyze Top 10 countries with Billionaire
-Analyze Top 10 industries with Billionaire
-Analyze Top 10 Billionaire
-Analyze the ages of Top 15 Billionaire
+* The purpose of this project was to: 
+* Analyze Top 10 countries with Billionaire
+* Analyze Top 10 industries with Billionaire
+* Analyze Top 10 Billionaire
+* Analyze the ages of Top 15 Billionaire
 ### Method Used
-Data Cleaning 
-Data Visualization 
+* Data Cleaning 
+* Data Visualization 
+* Exploratory Data Analysis (EDA)
 ### Technologies
-Excel 
+* Excel 
